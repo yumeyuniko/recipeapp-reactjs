@@ -10,3 +10,7 @@
   text-align: center;
   margin: 12px 0px;
 }
+
+.recipeTile {
+  cursor: pointer;
+}
